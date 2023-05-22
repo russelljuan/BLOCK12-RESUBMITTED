@@ -24,10 +24,6 @@ Hi, I'm John A Russell, a passionate web developer dedicated to helping companie
 - Building Relationships with Clients
 - Staying Up-to-date with Industry Trends
 
-# Contact Me
-
-To get in touch with me, please fill out the contact form on my website.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
